@@ -1,0 +1,4 @@
+This lesson is very helpful for . . .debugging in CDT
+
+He discussed a search method with the three dots on the RH side of the screen where you look throught
+all of the source. ..everything. brilliant. 
